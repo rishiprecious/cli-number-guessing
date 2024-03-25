@@ -1,6 +1,6 @@
 {
   "name": "@mr3rasheed/cli-number-guessing",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "This is cli bassed number guessing game",
   "main": "index.js",
   "type": "module",
@@ -11,8 +11,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Muhammad Rasheed",
+  "license": "MIT",
   "dependencies": {
     "@mr3rasheed/cli-number-guessing": "^2.0.1",
     "@types/node": "^20.11.30",
